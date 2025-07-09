@@ -36,12 +36,12 @@ This project serves as a basic example of a professional team landing page. Idea
 ## 🧑‍💻 Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/iamrajarajanr)
 
 ## 🚀 How to Use
 
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/your-repo-name.git`
+   `git clone https://github.com/iamrajarajanr/Header`
 
 2. Open `index.html` in your browser to see the landing page.
 
